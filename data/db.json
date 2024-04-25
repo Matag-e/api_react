@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "e3e9",
+      "name": "capa de chuva",
+      "price": "15.25"
+    },
+    {
+      "id": "1bd0",
+      "name": "TECLADO",
+      "price": "110"
+    },
+    {
+      "id": "f33c",
+      "name": "Mouse",
+      "price": "150"
+    },
+    {
+      "id": "3658",
+      "name": "Suporte Monitor",
+      "price": "150"
+    },
+    {
+      "id": "a5fe",
+      "name": "CABO HDMI",
+      "price": "10"
+    },
+    {
+      "id": "ee39",
+      "name": "Headset",
+      "price": "395"
+    },
+    {
+      "id": "bc4b",
+      "name": "Suporte Fone",
+      "price": "35"
+    },
+    {
+      "id": "05ce",
+      "name": "Webcam",
+      "price": "32"
+    },
+    {
+      "id": "8c27",
+      "name": "Webcam",
+      "price": "32"
+    },
+    {
+      "id": "4707",
+      "name": "Webcam",
+      "price": "32"
+    }
+  ]
+}

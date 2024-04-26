@@ -60,6 +60,12 @@ function App() {
 
 }
 
+  // 8 DESAFIO 6 
+
+  const handleRemove = (id) => {
+  httpConfig(id, "DELETE")
+  }
+
 
 
   return (
@@ -74,6 +80,7 @@ function App() {
           <li key={product.id}>
             {product.name} - R$: {product.price}
             {product.description}
+            <button onClick={() => handleRemove(product.id)}>Excluir</button>
 
           </li>
         ))}
